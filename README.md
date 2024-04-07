@@ -1,9 +1,6 @@
-# HR-Analytics-Dashboard-with-Power-BI
-HR Analytics Dashboard with Power BI using excel and CSV
 ## Unveil Employee Turnover Insights with HR Analytics in Power BI (HR-Analytics-Dashboard)
 
-**[Image]**
-
+![image](https://github.com/Kreazzy/HR-Analytics-Dashboard-with-Power-BI/blob/Kreazzy/HR%20Anaylitics%20report.jpg)
 **Uncover the reasons behind employee turnover and make informed decisions to retain top talent with this interactive Power BI dashboard.**
 
 This project delves into the world of HR data analysis using Power BI, a powerful business intelligence tool.  We'll explore the entire process, from data cleaning and processing to building an insightful dashboard that empowers data-driven HR strategies.
